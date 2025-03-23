@@ -1,1 +1,1 @@
-# CRUD-Operation-Django
+# Please Open Master Branch for all my projects
